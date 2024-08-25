@@ -5,5 +5,5 @@ if opcion == 1:
     area_cuadrado = round(pow(cuadrado_lado,2),2)
     print(f"El area del cuadrado es {area_cuadrado} M2")
 
-If opcion == 2:
+# If opcion == 2:
     
